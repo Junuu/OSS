@@ -55,3 +55,4 @@ void output(int *p, int N)
 	for (tmp = p; tmp < p + N; tmp++)
 		printf(" %d", *tmp);
 }
+//edit
