@@ -39,7 +39,7 @@ int main()
 	}	
 	return 0;
 }
-
+//edit
 void input(int *p, int N)
 {
 	int *tmp;
