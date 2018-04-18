@@ -1,12 +1,2 @@
 fush test from local master to remote branch
 OK!
-master-revisisng!
-origin option??
-<<<<<<< HEAD
-fetch test edit from git
-=======
-fetch test ¤¾¤¾
->>>>>>> 23cb02da66481a09b7956ca13e05c4cd05046061
-change in remote
-change
-2018-04-18 2:18 edit for fetch test
